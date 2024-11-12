@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor (Web3 Developer)
 ==============================================================================================================================
 
-Tech Enthusiast
+Tech Enthusiast(I don’t prefer to share my developments publicly // this is not main profile // many works were not declared)
 ----------
 
 Deal with crypto since 2016(Q2) / Node-runner (since 2020) / Tester / Tech support / Developing
