@@ -18,7 +18,6 @@ src="https://img.shields.io/github/followers/LOFT228?logo=github&style=for-the-b
 src="https://img.shields.io/twitter/follow/loft_dev?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
 /></a>
 
-### Skills
 
 ### Socials
 
